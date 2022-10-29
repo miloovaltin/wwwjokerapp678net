@@ -1,16 +1,16 @@
 {
-"name": "wwwjokerapp678net",
-"theme": "www jokerapp678 net",
-"version": "1.7.9",
-"description": "www jokerapp678 net ทางเข้าเว็บพนันเว็บตรง ระบบออโต้ ให้เงินเครดิตฟรี",
-"keywords": [
-"www jokerapp678 net",
-"www jokerapp678 net เครดิตฟรี",
-"www jokerapp678 net ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/wwwjokerapp678net",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "wwwjokerapp678net",
+  "theme": "www jokerapp678 net",
+  "version": "1.8.0",
+  "description": "www jokerapp678 net ทางเข้าเว็บพนันเว็บตรง ระบบออโต้ ให้เงินเครดิตฟรี",
+  "keywords": [
+    "www jokerapp678 net",
+    "www jokerapp678 net เครดิตฟรี",
+    "www jokerapp678 net ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/wwwjokerapp678net",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
